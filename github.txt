@@ -10,3 +10,17 @@
 *cmmands:
 
 git clone <repo url> => appka remote folder ka copy appke local system me kr deta h
+
+git init => inisitilize you local reposetory
+
+git add <file_name> => stages changes for next commit
+git add . => stages changes for next commit
+
+git commit -m "your message" => records the changes made to repository
+
+git push => changes reflect in your repo
+
+git branch branch_name => used for creating new branch
+
+git checkout branch_name => ek branch se dusre branch me jane ke liye
+
