@@ -1,0 +1,12 @@
+=> GitHub is a web-based platform
+=> github git (software) ko use krke version control and collaboration krta h
+
+*key concepts
+
+1. Repository(Repo) -> it is a remote folder
+
+2. Branches -> you can say subfolder of repo. agar ek sath multiple log kam krte h to sare alag alag branch ban ke appna code ko github me manage krte h taki dusre developer se code conflict na kre
+
+*cmmands:
+
+git clone <repo url> => appka remote folder ka copy appke local system me kr deta h
